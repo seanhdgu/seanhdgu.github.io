@@ -9,7 +9,8 @@ header {
    font-color: #ffffff;
 }
 
-header .row,
+header .row {
+  font-color: #ffffff;}
 footer .row {
   display: flex;
   align-items: center;
