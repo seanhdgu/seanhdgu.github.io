@@ -32,7 +32,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url(C:\Users\gusea\Downloads\emirates-stadium-wallpapers-31048-9257212.jpg);
+  background-image: url('C:\Users\gusea\Downloads\emirates-stadium-wallpapers-31048-9257212.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
