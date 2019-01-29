@@ -36,7 +36,7 @@ header p {
 
 .jumbotron {
   display: flex;
-  align-items: center;
+  align-items: right;
   background-image: url('https://wallpapercave.com/wp/wVhG6q3.jpg');
   background-size: 100% 500px;
   background-repeat: no-repeat;
