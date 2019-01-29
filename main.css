@@ -91,6 +91,9 @@ footer {
   padding: 20px 0;
 }
 
+.col-sm-4{
+  color: #ffffff;}
+
 footer .col-sm-8 {
   display: flex;
   justify-content: flex-end;
