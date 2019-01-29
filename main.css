@@ -38,7 +38,7 @@ header p {
   display: flex;
   align-items: center;
   background-image: url('https://wallpapercave.com/wp/wVhG6q3.jpg');
-  background-size: 120%;
+  background-size: 100% auto;
   background-repeat: no-repeat;
   color: #ffffff;
   height: 500px;
