@@ -4,6 +4,9 @@
    background-color: #000000;
 }
 
+.col-sm-8{
+  font-color: #ffffff;
+}
 header {
   padding: 20px 0;
    font-color: #ffffff;
