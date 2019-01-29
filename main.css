@@ -10,7 +10,7 @@ header {
 }
 
 header .row {
-  font-color: #ffffff;}
+  color: #ffffff;}
 footer .row {
   display: flex;
   align-items: center;
